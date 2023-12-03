@@ -6,14 +6,18 @@ Hi! I am new, and I am excited.
 # About me:
 
 - 😎 Prefered computer languages: Python, Lua, C#, Asm.
-- 🤨 NOT preferred languages: C++, Java.
-- 🌎 Preferred language: English only.
+- 🤨 NOT preferred computer languages: C++, Java.
+- 🌎 Preferred human language: English only.
 - 💻 Preferred OS: Linux.
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
+- - ⚡ Fun fact: Knows how to do "Hello world" in asm
 
-![image](https://cdn.osxdaily.com/wp-content/uploads/2018/03/party-parrot-terminal.mov.gif)
 ![image](https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif)
+
+# What I do
+
+I upload my cool projects here. I try to make apps that will make life easier.
 
 
 <!--
