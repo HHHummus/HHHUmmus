@@ -13,6 +13,7 @@ Hi! I am new, and I am excited.
 - 😄 Pronouns: He/Him
 
 ![image](https://cdn.osxdaily.com/wp-content/uploads/2018/03/party-parrot-terminal.mov.gif)
+![image](https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif)
 
 
 <!--
