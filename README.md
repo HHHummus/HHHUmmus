@@ -11,13 +11,17 @@ Hi! I am new, and I am excited.
 - 💻 Preferred OS: Linux.
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
-- - ⚡ Fun fact: Knows how to do "Hello world" in asm
+- ⚡ Fun fact: Knows how to do "Hello world" in asm
 
 ![image](https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif)
 
 # What I do
 
 I upload my cool projects here. I try to make apps that will make life easier.
+
+# Working on...
+
+A smart notebook
 
 
 <!--
