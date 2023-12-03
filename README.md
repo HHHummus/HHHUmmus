@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hello! I'm HHHummus
 
+Hi! I am new, and I am excited.
+
+
+# About me:
+- 😎 Prefered computer languages: Python, Lua, C#, Asm.
+- 🤨 NOT preferred languages: C++, Java.
+- 🌎 Preferred language: English only.
+- 💻 Preferred OS: Linux.
+- 📫 How to reach me: Email
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
+
+- 
 <!--
 **HHHummus/HHHUmmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
