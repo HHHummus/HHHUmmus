@@ -12,7 +12,7 @@ Hi! I am new, and I am excited.
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
 
-![image](https://github.com/HHHummus/HHHUmmus/assets/152762828/0f9b70f4-e10c-46fa-b7f1-ca75dc5b82e2)
+![image](https://cdn.osxdaily.com/wp-content/uploads/2018/03/party-parrot-terminal.mov.gif)
 
 <!--
 **HHHummus/HHHUmmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
